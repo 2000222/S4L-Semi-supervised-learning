@@ -1,1 +1,2 @@
-# S4L- Extended model for image classification in semi-supervised learning.
+# S4L- 
+An extended model for image classification in semi-supervised learning.
